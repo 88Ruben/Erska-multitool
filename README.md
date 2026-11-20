@@ -40,7 +40,7 @@ If you find this project useful, consider giving the repository a star ⭐
 ---
 
 <p align="center">
-  <img src="images/erska-multitool.png" width="900">
+  <img src="erska-multitool.png" width="900">
 </p>
 
 <p align="center">
