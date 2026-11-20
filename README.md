@@ -53,9 +53,9 @@ If you find this project useful, consider giving the repository a star ⭐
 
 <p align="center">
 
-**ERSKA MULTITOOL — SETUP TUTORIAL**
+**Requirement**
 
-*Follow these steps to get started.*
+*pip install pystyle, psutil, aiohttp*
 
 </p>
 
