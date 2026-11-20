@@ -49,6 +49,75 @@ If you find this project useful, consider giving the repository a star ⭐
   The Ultimate All-in-One OSINT Toolkit
 </p>
 
+#  INSTALLATION GUIDE
+
+<p align="center">
+
+**ERSKA MULTITOOL — SETUP TUTORIAL**
+
+*Follow these steps to get started.*
+
+</p>
+
+---
+
+##  01 — Extract the Files
+
+Extract the downloaded folder into your Windows user directory:
+
+```text
+C:\Users\"Username"
+```
+
+**Example:**
+
+```text
+C:\Users\ERSKA\erskatool
+```
+---
+
+## 💻 03 — Launch the Tool
+
+Open **CMD (Command Prompt)** and enter the following commands:
+
+**Step 1 — Navigate to the folder**
+
+```bash
+cd erskatool
+```
+
+**Step 2 — Launch ERSKA MULTITOOL**
+
+```bash
+python main.py
+```
+
+---
+
+##  04 — You're Ready!
+
+If everything worked correctly, ERSKA MULTITOOL should now launch successfully.
+
+**Enjoy using ERSKA MULTITOOL!**
+
+---
+
+<p align="center">
+
+**━━━━━━━━━━━━━━━━━━━━━━━━━━━━**
+
+###  ERSKA MULTITOOL
+
+*Powerful Tools. Simple Experience.*
+
+**Developed by ERSKA | DECRYPT EMPIRE**
+
+**━━━━━━━━━━━━━━━━━━━━━━━━━━━━**
+
+</p></WritingBlock}
+
+
+
 <p align="center">
   <b>ERSKA MULTITOOL</b>
   <br>
